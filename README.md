@@ -1,4 +1,4 @@
-# Streamlit-App-for-Digit-Generation
+
 # ✍️ Handwritten Digit Generator (0–9)
 
 A Streamlit-based web app that generates **5 unique handwritten images** of any digit (0–9), trained from scratch using the **MNIST dataset** and a **simple conditional generator model** (PyTorch).
